@@ -1,0 +1,39 @@
+body {
+  position: relative;
+  margin: 0;
+  padding: 20px;
+  background-color: #010101;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  padding: 20px;
+  text-align: right;
+}
+
+footer .copyright {
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+footer .icon-links .fa-twitter {
+  color: white;
+  font-size: 3rem;
+  margin: 10px;
+}
+
+footer .icon-links .fa-linkedin-in {
+  color: white;
+  font-size: 3rem;
+  margin: 10px;
+}
+
+footer .icon-links .fa-envelope {
+  color: white;
+  font-size: 3rem;
+  margin: 10px;
+}

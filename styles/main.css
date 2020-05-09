@@ -20,20 +20,17 @@ footer .copyright {
   font-weight: 400;
 }
 
-footer .icon-links .fa-twitter {
+footer .icon-links .custom-icon {
   color: white;
   font-size: 3rem;
   margin: 10px;
 }
 
-footer .icon-links .fa-linkedin-in {
-  color: white;
-  font-size: 3rem;
-  margin: 10px;
-}
-
-footer .icon-links .fa-envelope {
-  color: white;
-  font-size: 3rem;
+.icon-instagram {
+  background-image: url('../icons/instagram.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  font-size: 2.6rem;
+  padding-left: 2.6rem;
   margin: 10px;
 }
